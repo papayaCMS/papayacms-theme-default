@@ -1,0 +1,8 @@
+{
+  "name": "papaya/theme-default",
+  "type": "papaya-theme",
+  "require": {
+    "papaya/composer-plugins": "*",
+    "papaya/template-default-xhtml": "*"
+  }
+}
